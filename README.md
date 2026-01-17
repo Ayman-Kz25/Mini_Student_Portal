@@ -42,4 +42,19 @@ This is a **learning-focused project**, and more features may be added as I cont
 
 ---
 
+## 🤝 Contributions
+
+Suggestions and improvements are always welcome.
+Feel free to fork the repository or open an issue.
+
+---
+
+## 📬 Contact
+
+If you'd like to connect or discuss Flutter development:
+
+* **LinkedIn:** *https://www.linkedin.com/in/ayman-kz-8807b4379/*
+
+---
+
 ⭐ If you find this project helpful, consider giving it a star!
